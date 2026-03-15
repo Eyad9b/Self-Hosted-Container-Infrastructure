@@ -11,17 +11,17 @@ Technologies Used
 
 Architecture
 
-Installed a Linux server to host containerized applications.
+- Installed a Linux server to host containerized applications.
 
-Installed Docker to run and manage containers.
+- Installed Docker to run and manage containers.
 
-Deployed Portainer for web-based container management.
+- Deployed Portainer for web-based container management.
 
-Configured Tailscale VPN to securely access services remotely.
+- Configured Tailscale VPN to securely access services remotely.
 
-Implemented TSDProxy to expose services via domain names instead of IP:port.
+- Implemented TSDProxy to expose services via domain names instead of IP:port.
 
-Managed container deployments using Docker Compose.
+- Managed container deployments using Docker Compose.
 
 Implementation Steps
 1. Linux Server Setup
